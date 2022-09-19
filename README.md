@@ -1,4 +1,4 @@
-## Golden Waste SDA Hackathon
+### Golden Waste SDA Hackathon
 
 <h3 align="center">
 Golden Waste SDA Hackathon
